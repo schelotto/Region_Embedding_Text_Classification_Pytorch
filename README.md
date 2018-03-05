@@ -11,6 +11,12 @@ in the intermediate future. If anyone has a chance to implement the former, plea
 
 I also added a self-attention mechanism on top of the region embedding layer to get better results.
 
+# Requirements
+* python 3
+* PyTorch >= 0.3
+* sklearn
+* numpy
+
 # Usage
 ```
 python main.py [arguments]
