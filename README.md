@@ -9,7 +9,7 @@ MR dataset is used  by default.
 **NOTE**: in this implementation, only Context-Word Region Embedding is available for now. I do not have a plan to implement Word-Context Region Embedding
 in the intermediate future. If anyone has a chance to implement the former, please let me know. Thanks in advance.
 
-I also added a self-attention mechanism on top of the region embedding layer to get better results.
+I also added a self-attention layer on top of the region embedding layer to get better results.
 
 # Requirements
 * python 3
